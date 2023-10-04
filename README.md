@@ -14,6 +14,7 @@ There are 3 levels, which first one is a little bit easy and as they go on, they
 The core mechanics of the game are the “Timed Tasks” and “Squad”. The combination of these two not only gives a novel experience to the player, but mostly makes the game extremely competitive and challenging, thus assuring the player to never get bored.
 
 • The 1st mechanic is that in the game, some tasks must be completed in a specific given time. That of course, does not mean that the task should concern by only completing the level.
+
 • 2nd mechanic is that player can control more than one character in the game.
 
 These 2 specific mechanics give an excellent combination, since they can cooperate perfectly and create a synergy among them. The synergy in this game is actually that a task cannot be completed, if another task has not been completed first.
